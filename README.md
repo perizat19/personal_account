@@ -15,3 +15,4 @@ __sub__ magic method performs the same operation as the withdraw(self, amount) m
 
 In order to compile my code, in main file create your personal account object with your account number and account holder, then select the method you want to perform.
 
+![PersonalAccount_UML](https://github.com/user-attachments/assets/a66d0514-71cf-472f-8160-a5a316d3b348)
